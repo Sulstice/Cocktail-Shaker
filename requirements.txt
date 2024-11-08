@@ -12,7 +12,7 @@ MarkupSafe==1.1.1
 MolVS==0.1.1
 more-itertools==7.2.0
 numpy==1.17.3
-packaging==19.2
+packaging==24.2
 pandas==0.25.3
 py==1.8.0
 Pygments==2.4.2
