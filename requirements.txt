@@ -30,5 +30,5 @@ Sphinx==2.2.1
 sphinx-bootstrap-theme==0.7.1
 urllib3==1.25.7
 wcwidth==0.1.7
-zipp==0.6.0
+zipp==3.21.0
 pyOpenSSL==19.1.0
