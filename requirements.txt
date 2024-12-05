@@ -24,7 +24,7 @@ pytz==2019.3
 requests==2.22.0
 ruamel.yaml==0.16.5
 ruamel.yaml.clib==0.2.0
-six==1.13.0
+six==1.17.0
 snowballstemmer==2.0.0
 Sphinx==2.2.1
 sphinx-bootstrap-theme==0.7.1
